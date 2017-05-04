@@ -32,13 +32,13 @@ The exemplary output figure generated is the following:
 The physiology is based on the PBPK model implemented in PK-Sim version 5.6. The MoBi project file was created in version 7.0.
 
 ## Code of conduct
-Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://gitprint.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md).
 
 ## Contribution
-We encourage contribution to the Open Systems Pharmacology community. Before getting started please read the [contribution guidelines](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CONTRIBUTING.md). If you are contributing code, please be familiar with the [coding standard](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODING_STANDARDS.md).
+We encourage contribution to the Open Systems Pharmacology community. Before getting started please read the [contribution guidelines](https://gitprint.com/Open-Systems-Pharmacology/Suite/blob/master/CONTRIBUTING.md). If you are contributing code, please be familiar with the [coding standard](https://gitprint.com/Open-Systems-Pharmacology/Suite/blob/master/CODING_STANDARDS.md).
 
 ## License
-The GIM model code is distributed under the [GPLv2 License](https://gitprint.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
+The GIM model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
 [1] [Schaller S, Willmann S, Lippert J, Schaupp L, Pieber TR, Schuppert A, Eissing T. A generic integrated physiologically based whole-body model of the glucose-insulin-glucagon regulatory system. CPT: Pharmacometrics & Systems Pharmacology (2013) 2:e65; doi:10.1038/psp.2013.40.](http://onlinelibrary.wiley.com/doi/10.1038/psp.2013.40/abstract)
