@@ -1,4 +1,6 @@
 # Welcome to the Glucose Insulin model
+![gim](https://github.com/Open-Systems-Pharmacology/Glucose-Insulin-Model/blob/master/Images/Flyer_X4_Header.jpg)
+
 ## The physiologically-based whole-body model of the glucose-insulin-glucagon regulatory system
 
 Within this repository, we distribute the physiologically-based whole-body model of glucose-insulin-glucagon regulation based on the model developed at Bayer and first published in [[1](#references)]. The model (referred to as the Glucose Insulin Model or GIM in following) includes physiologically-based pharmacokinetics/pharmacodynamics (PBPK/PD) models of glucose, insulin, and glucagon, coupled by complex regulatory interactions on various mechanistic levels. The model was updated to reflect software development over the years. The general description of implemented process provided in [[1](#references)] is still valid and the user is encouraged to read the publication to get insight into model structure. Selected publications addressing the application of GIM are [[2,3,4](#references)].
