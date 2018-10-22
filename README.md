@@ -7,6 +7,8 @@ Within this repository, we distribute the physiologically-based whole-body model
 
 Extensions and updates are worked on.
 
+An updated version with extended representation of renal glucose handling can be found in [this repository](https://github.com/Open-Systems-Pharmacology/SGLT2i-hyperfiltration-model).
+
 ## Repository files
 * The model is provided as a ready-to-use MoBi project “**GlucoseInsulinModel.mbp3**”. By default, the model describes glucose metabolism typical for a healthy population. A type 1 diabetes mellitus (T1DM) patient can be simulated by applying the respective parametrization, which is implemented as the parameter start values building block “GIM_PSV_T1DM”. The concept of working with building blocks is described in the [manual](https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/master/Open%20Systems%20Pharmacology%20Suite.pdf) of the Open Systems Pharmacology Suite (_OSPS_).
 The distributed project file includes six exemplary simulations of different perturbation experiments. Experimental conditions and data are reported in [[5,6](#references)]. Following protocols are simulated:
